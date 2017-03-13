@@ -15,6 +15,8 @@ class Spieler extends Objekt {
       richtung=-1;
     }
 
+    // lalal
+
     yPosition=yPosition+vy;        //<--------- Y-Bewegung <-> Änderung der Position
 
     vy=vy+0.15;    //<--------Beschleunigung <-> Änderung der Geschwindigkeit
